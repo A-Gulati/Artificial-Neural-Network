@@ -1,6 +1,6 @@
 #note: in testing, i placed this file in the same location as the mnist training and test files
 #alternatively, you can set the file locations in the train and test portions of __main__
-#run using command - python CS156_FinalProject.py
+#run using terminal command - python Neural_Network.py
 
 import numpy as np
 
